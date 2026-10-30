@@ -1,0 +1,9 @@
+export default function Work() {
+  return (
+      <section className="hs" id="work"><div className="tk" id="tk">
+          <div className="cd"><div className="no">01</div><div><p className="mo">Tata Advanced Systems · Nagpur</p><h3 className="sf">Raw sheet, <span className="gt">formed</span>.</h3><p>About two and a half years in aerospace manufacturing: sheet stretch-forming equipment (FET-600) and production operations. Exact role and dates are being confirmed.</p><span className="tg">Stretch forming</span><span className="tg">Production</span><span className="tg">Quality</span></div></div>
+          <div className="cd"><div className="no">02</div><div><p className="mo">Nubeno Healthcare · May 2023 – Apr 2024</p><h3 className="sf">Ink, rhythm, <span className="gt">repeat</span>.</h3><p>Printing Machine Operator, full-time on-site: running print equipment, holding output steady and the floor safe.</p><span className="tg">Printing</span><span className="tg">Safe operation</span></div></div>
+          <div className="cd"><div className="no">03</div><div><p className="mo">SEDI Nagpur · Oct 2025 – Jan 2026</p><h3 className="sf">Then came the <span className="gt">current</span>.</h3><p>Assistant Electrician Level-3 training. Certificate of Proficiency issued 18 March 2026, ‘O’ rating. Wiring, LV panels, testing, refrigerator and AC maintenance, electrical safety.</p><span className="tg">Wiring</span><span className="tg">LV panels</span><span className="tg">Refrigeration &amp; AC</span></div></div>
+          <div className="cd"><div className="no">04</div><div><p className="mo">Foundation</p><h3 className="sf">It began with <span className="gt">mechanics</span>.</h3><p>A mechanical engineering diploma underpins everything. Institution and dates will be added once confirmed.</p></div></div></div></section>
+  )
+}
